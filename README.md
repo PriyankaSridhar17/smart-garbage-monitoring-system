@@ -84,6 +84,11 @@ The supporting academic report and presentation cover:
 - Operating flowchart.
 - Prototype photographs.
 - Conclusion and future applications.
+  
+### Detailed Technical Documentation
+
+[View Complete System Architecture and Technical Documentation](docs/architecture.md)
+
 
   
 ---
