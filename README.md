@@ -85,6 +85,36 @@ The supporting academic report and presentation cover:
 - Prototype photographs.
 - Conclusion and future applications.
 
+  
+---
+
+## Architecture Diagrams & Prototype Demonstration
+
+The following diagrams and photographs are taken from the original academic project report.
+
+### 1. System Architecture
+
+![Smart Garbage Monitoring System Architecture](images/system-architecture.jpeg)
+
+### 2. Hardware Block Diagram
+
+![Arduino and Sensor Hardware Block Diagram](images/hardware-block-diagram.jpeg)
+
+### 3. System Flowchart
+
+![Smart Garbage Monitoring System Flowchart](images/system-flowchart.jpeg)
+
+### 4. Hardware Prototype — Photograph 1
+
+![Smart Garbage Monitoring Prototype 1](images/prototype%201.jpeg)
+
+### 5. Hardware Prototype — Photograph 2
+
+![Smart Garbage Monitoring Prototype 2](images/prototype%202.jpeg)
+
+---
+
+
 ## Applications
 
 - Smart-city waste management.
